@@ -1,0 +1,83 @@
+// Code for the Addition of The Two Numbers :-
+
+#include <stdio.h>
+int main ()
+{
+  int a , b , sum ;
+  printf ( "Enter the Two Numbers :- \ " );
+  scanf ( "%d%d" , &a , &b );
+  sum = a+b ;
+  printf ( "The Sum of the Two Numbers is :- %d " , sum );
+  return 0;
+}
+
+
+____________________________________________
+
+
+// Code for the Subtraction of The Two Numbers :-
+
+#include <stdio.h>
+int main ()
+{
+  int a , b , sub ;
+  printf ( "Enter the Two Numbers :- \ " );
+  scanf ( "%d%d" , &a , &b );
+  sub = a-b ;
+  printf ( "The Subtraction of the Two Numbers is :- %d " , sub );
+  return 0;
+}
+
+
+____________________________________________
+
+
+// Code for the Division of The Two Numbers :-
+
+#include <stdio.h>
+int main ()
+{
+  int a , b , div ;
+  printf ( "Enter the Two Numbers :- \ " );
+  scanf ( "%d%d" , &a , &b );
+  div = a/b ;
+  printf ( "The Division of the Two Numbers is :- %d " , div );
+  return 0;
+}
+
+
+____________________________________________
+
+
+// Code for the Multiplication of The Two Numbers :-
+
+#include <stdio.h>
+int main ()
+{
+  int a , b , mult ;
+  printf ( "Enter the Two Numbers :- \ " );
+  scanf ( "%d%d" , &a , &b );
+  mult = a*b ;
+  printf ( "The Multiplication of the Two Numbers is :- %d " , mult );
+  return 0;
+}
+
+
+____________________________________________
+
+
+// Code for the Remainder of The Two Numbers :-
+
+#include <stdio.h>
+int main ()
+{
+  int a , b , rem ;
+  printf ( "Enter the Two Numbers :- \ " );
+  scanf ( "%d%d" , &a , &b );
+  rem = a%b ;
+  printf ( "The Remainder of the Two Numbers is :- %d " , rem );
+  return 0;
+}
+
+
+____________________________________________
